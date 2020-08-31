@@ -2,7 +2,7 @@
 An epic discord tool i am currently working on.
 
 
-- This tool will allow you to;
+## This tool will allow you to;
 
 - Join servers with multiple accounts at once
 - Raid servers
